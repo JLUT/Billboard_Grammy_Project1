@@ -63,5 +63,5 @@ Since the Billboard Hot 100 is compiled each week, an automatic scraper could be
 I could elect to not include new data sources but expand the current ones used. Datasets could encompass all data available for the Billboard Chart and the Grammys. The Billboard Chart was first produced in 1894 and produced a magazine which highlighted the cool and popular items of that week, including songs and plays. The Billboard Hot 100 started in 1991 as a modified version of the Honor Roll of Hits that started in 1945. The Grammys first started in 1959 with only 14 categories and have expanded to 84 categories as of 2021. Our model could also be tested on the ability to determine specific category winner if the inputs were available to train and test this possibility. Overall, there are several possible additions to expand the data set, which could be tested to determine if these expansions could improve the accuracy. 
 
 # Presentation Link
-- [Google Slides](https://docs.google.com/presentation/d/1gNiLVhv1PRAzBwcYhDEzvymbgdiNwZT_MBioeOvYKPA/edit#slide=id.gce7da8c980_0_82)
+
 - [Tableau Dashboard](https://public.tableau.com/profile/jomol#!/vizhome/BillboardtoGrammyDashboard/BillboardtoGrammy?publish=yes)
